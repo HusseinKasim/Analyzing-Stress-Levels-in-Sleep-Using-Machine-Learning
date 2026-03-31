@@ -13,6 +13,16 @@ The dataset, named "SaYoPillow.csv", includes various parameters related to slee
 
 -----
 
+## Technologies Used:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+-----
+
 ## Methodology:
 I employed logistic regression for this project, which is an ideal choice for classification problems like stress detection. This project included five target stress levels that the results were categorized into. 
 
@@ -27,14 +37,6 @@ The project workflow encompasses
 
 ## Key Findings:
 The project revealed intriguing relationships between various sleep metrics and stress levels. Specific patterns in sleep behavior, when correlated with stress, yielded insightful findings.
-
------
-
-## Technologies Used:
-- Python for overall data analysis and machine learning
-- Libraries like Pandas and NumPy for data manipulation
-- Matplotlib and Seaborn for visualizing the data
-- Scikit-learn for implementing and evaluating the logistic regression model
 
 -----
 
